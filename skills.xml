@@ -1,0 +1,12 @@
+<Skills>
+
+ <Что такое JSON XML> Cтруктура </Что такое JSON XML> 
+ <Тестирование API> Postman </Тестирование API> 
+ <Снифинг http web трафика> Charles и Fiddler </Снифинг http web трафика>
+ <Коды ответов HTTP сервера> GET PUT POST </Коды ответов HTTP сервера> 
+ <Нагрузочное тестирование> Jmeter </Нагрузочное тестирование>
+ <Методология разработки> Scrum Kanban </Методология разработки> 
+ <Основы SQL> Create, Delete, Drop, Insert Into, Select, From, Where, Join </Основы SQL>
+ <Terminal> Копирование, создание, просмотр, перемещение файлов на серверах </Terminal>
+
+</Skills>
