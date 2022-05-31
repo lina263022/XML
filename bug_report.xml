@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <bugreport>
   <Description> Накладывается надпись на картинки товаров в  разделе Popular products нижней части главной страницы </Description>
-  <Step to reproduse>	Открыть сайт http://sp1.iteatester.com </Step to reproduse>
-  <Step to reproduse>	Опускаемся в нижнюю часть страницы в раздел  Popular products </Step to reproduse>
-  <Actual result> На картинки товаров накладывается надпись и перекрывает их </Actual result> 
-  <Expected result> надпись не перекрывает картинки товаров </Expected result>
+  <Step1>	Открыть сайт http://sp1.iteatester.com </Step1>
+  <Step2>	Опускаемся в нижнюю часть страницы в раздел  Popular products </Step2>
+  <AR> На картинки товаров накладывается надпись и перекрывает их </AR> 
+  <ER> надпись не перекрывает картинки товаров </ER>
 </bugreport>
