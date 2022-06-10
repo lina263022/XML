@@ -3,10 +3,10 @@
 
   <JSONXML> Cтруктура </JSONXML> 
   <API>Тестирование API через Postman </API> 
-  <Снифинг> Charles и Fiddler </Снифинг>
+  <Sniffers> Charles и Fiddler </Sniffers>
   <HTTP> GET PUT POST </HTTP> 
-  <Нагрузка> Jmeter </Нагрузка>
-  <Методологии> Scrum, Kanban </Методологии> 
+  <Jmeter>  </Jmeter>
+  <Metodology> Scrum, Kanban </Metodology> 
   <SQL> Create, Delete, Drop, Insert Into, Select, From, Where, Join </SQL>
   <Terminal> Копирование, создание, просмотр, перемещение файлов на серверах </Terminal>
 
